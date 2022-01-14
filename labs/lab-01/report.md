@@ -1,6 +1,11 @@
 # Lab 01 Report - Introduction to Open Source Software
+3. LINUX
 
-4. REGEX
+![image](https://user-images.githubusercontent.com/48782723/149572285-07c2905c-518b-4de1-aa60-5b608e9d465c.png)
+
+
+5. REGEX
+
 =======
 PROBLEM 1
 ![image](https://user-images.githubusercontent.com/48782723/149566709-dc3277dd-537b-41de-ad5d-5a16947813f3.png)
