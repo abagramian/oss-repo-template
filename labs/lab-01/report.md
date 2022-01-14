@@ -23,12 +23,17 @@ PROBLEM 3
 ![image](https://user-images.githubusercontent.com/48782723/149569331-312e4881-62f9-4a29-9dd9-d9ccf083ddb6.png)
 
 PROBLEM 4
+![image](https://user-images.githubusercontent.com/48782723/149576126-491527ac-d258-40b8-90dc-96e1b71c4dd9.png)
 
 PROBLEM 5
+![image](https://user-images.githubusercontent.com/48782723/149576788-15d5084c-3f74-4acd-bc0d-44cdb6fedfb7.png)
 
 PROBLEM 6
+![image](https://user-images.githubusercontent.com/48782723/149577163-9eaf0d95-9d91-4256-a8d8-fb3c4651d1f1.png)
 
 PROBLEM 7
+![image](https://user-images.githubusercontent.com/48782723/149586669-8924a3fc-325d-40d0-97df-3df5b23075f6.png)
+
 
 5. BLOCKLY
 =======
