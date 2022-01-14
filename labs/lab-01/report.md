@@ -1,4 +1,10 @@
 # Lab 01 Report - Introduction to Open Source Software
+
+1. DISCORD 
+![image](https://user-images.githubusercontent.com/48782723/149572625-f53d5834-d7b5-4324-ba5a-c43b9bf49bd7.png)
+
+2. READINGS
+
 3. LINUX
 
 ![image](https://user-images.githubusercontent.com/48782723/149572285-07c2905c-518b-4de1-aa60-5b608e9d465c.png)
@@ -24,8 +30,10 @@ PROBLEM 6
 
 PROBLEM 7
 
-5. BLOCKY
+5. BLOCKLY
 =======
 ![image](https://user-images.githubusercontent.com/48782723/149563774-aca8881b-7335-4066-957c-907e565eb33e.png)
 
 ![image](https://user-images.githubusercontent.com/48782723/149563696-64e8e1ff-bc87-436b-bb4b-fa91617d404d.png)
+
+6. REFLECTION
