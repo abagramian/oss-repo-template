@@ -5,6 +5,20 @@
 
 2. READINGS
 
+**The Open Source Definition**
+The criteria defined in this article ensure that open source software is truly "open source". The rules listed enforce terms that gurantee open source software is written and licensed in a way that is fair to all. Accessibility and equality amongst developers that wish to work on open source projects is strongly emphasized. 
+
+**Smart Questions - How to ask the question the Smart Way**
+I thought this piece had a lot of great advice, most of which I was able to learn on my own during my internship last spring. I had to learn how to do my own research before asking questions, as well as learning how to present the question to avoid looking like I did not even try to figure it out myself first. I do however think that this could have been written in a way that is not so crude. I really disliked the line about being a "giggly teenage girl" who is "more interested in sex than answers" when using too many emoticons in a message - the author could have gotten the same message across without the misogynistic tone. After all, it's not quite in the spirit of open source to discriminate against specific groups, so why was this necessary?
+
+**Do you have more suggestions for How To Answer Questions in a Helpful Way (from your past experience)?**
+1. Provide any and all resources that you used in the process of answering the question that might help the asker gain more insight into the problem.
+2. When answering a question in which I am not confident with the solution, if I know a colleague that is free, I like to run my solution by them quickly to check for errors or misconceptions before sending the answer off.
+
+**FREE CULTURE CHAPTER 3**
+I believe that I vaguely remember hearing about this story when I was a freshman going through the orientation sessions ocurring before my first classes started. However, it was framed a lot differently than it was in this chapter. I remember being told that students at RPI racked up tens of millions of dollars in infringement charges because they were pirating music. They used this story to warn us about the dangers of pirating while at RPI. We weren't given the full story about these students being wrongfully accused. I find it very frustrating that someone who was doing, like the author stated, "precisely what he was supposed to do" was used as an example by the RIAA even though he was in no way responsible for the copyright infringements that took place. I find it even more frustrating that his story was used as almost a threat, when it's actually a story of injustice, unfairness, and greed within the American legal system. I wonder if the group responsible for the lawsuit was aware of what they were doing, or if they were just so technologically illeteriate that they could not understand why Jesse was not responsible for the infringements.
+
+
 3. LINUX
 
 ![image](https://user-images.githubusercontent.com/48782723/149572285-07c2905c-518b-4de1-aa60-5b608e9d465c.png)
@@ -12,7 +26,7 @@
 
 4. REGEX
 
-=======
+**PRACTICE PROBLEMS**
 PROBLEM 1
 ![image](https://user-images.githubusercontent.com/48782723/149566709-dc3277dd-537b-41de-ad5d-5a16947813f3.png)
 
@@ -34,6 +48,9 @@ PROBLEM 6
 PROBLEM 7
 ![image](https://user-images.githubusercontent.com/48782723/149586669-8924a3fc-325d-40d0-97df-3df5b23075f6.png)
 
+**CROSSWORDS**
+
+
 
 5. BLOCKLY
 =======
@@ -42,3 +59,4 @@ PROBLEM 7
 ![image](https://user-images.githubusercontent.com/48782723/149563696-64e8e1ff-bc87-436b-bb4b-fa91617d404d.png)
 
 6. REFLECTION
+
