@@ -1,4 +1,5 @@
 # Lab 01 Report - Introduction to Open Source Software
+**Alexis Bagramian**
 
 1. DISCORD 
 ![image](https://user-images.githubusercontent.com/48782723/149572625-f53d5834-d7b5-4324-ba5a-c43b9bf49bd7.png)
@@ -64,3 +65,7 @@ PROBLEM 7
 
 6. REFLECTION
 
+Project I am interested in evaluating:
+https://github.com/googlemaps/google-maps-services-python
+
+While I am currently most interested in evaluating the project linked above, I am continuing to explore mostly through Google's listing of open source projects, found at https://opensource.google/. This interface provides a large number of projects organized into areas of concern and provides details and a link to their repositories. This makes for a very convenient experience in looking for projects to evaluate, because I can easily take a look at existing documentation and code. I am also using google's listings to begin thinking about ideas for my own project. By looking at projects that already exist and how they are structured, I will be able to better grasp the basics of open source projects and the problems they are solving. By observing these details, I can continuously consider ideas to apply to my own project. I will not be completely limiting myself to Google's resource, I have also browsed through the projects in the link provided with this lab. I am also simply searching the web for anything that looks interesting.
