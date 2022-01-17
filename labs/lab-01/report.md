@@ -49,6 +49,10 @@ PROBLEM 7
 ![image](https://user-images.githubusercontent.com/48782723/149586669-8924a3fc-325d-40d0-97df-3df5b23075f6.png)
 
 **CROSSWORDS**
+![image](https://user-images.githubusercontent.com/48782723/149688963-73ae3607-8ec4-4b49-8e63-993120824f39.png)
+![image](https://user-images.githubusercontent.com/48782723/149688977-1d494902-eb63-49bb-b762-62cf58fc4ff6.png)
+![image](https://user-images.githubusercontent.com/48782723/149689007-be00f717-e23e-4a2d-ab76-629299d9e84d.png)
+![image](https://user-images.githubusercontent.com/48782723/149689032-cdbabe36-bb9d-413b-baba-b529b22591be.png)
 
 
 
