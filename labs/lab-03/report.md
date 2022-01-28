@@ -1,12 +1,13 @@
-**BORILLIANT**
-MOST RECENT COMMIT
+##Borilliant-Feedback
+MOST RECENT COMMIT<br>
+
 commit 3281cc4468b95db7e1887c8bd9ea490ca68989e6
 Author: Yuze Ma <584653629@qq.com>
 Date:   Thu Mar 2 20:41:09 2017 -0500
 
     Initial commit
 
-LATEST COMMIT
+LATEST COMMIT<br>
 commit e32ac06077bbe16e5ffad0f599270e1e5a00bf64 (HEAD -> master, origin/master, origin/HEAD)
 Merge: b876a54 565f24b
 Author: Yuze Ma <584653629@qq.com>
@@ -17,19 +18,21 @@ Date:   Fri Apr 28 23:56:19 2017 -0400
     Frond end template design update
 
 NUMBER CONTRIBUTORS
+
 4 contributors
 
-BRANCHES
+BRANCHES<br>
 master
 
-NUMBER LINES
+NUMBER LINES<br>
 95401
 
 GITSTATS
 ![image](https://user-images.githubusercontent.com/48782723/151601680-4e8bfec0-595f-460c-b503-47882b395ed3.png)
-file:///C:/Users/alexi/OneDrive/Documents/RPI/Spring22/OSS/lab3/Borilliant/activity.html
 
-COULD NOT GET GOURCE WORKING:
+The total number of lines reported with gitstats is much higher than the lines found by running git ls-files -z | xargs -0 wc -l. All other statistics are consistent between the manual findings and gitstats.
+
+**COULD NOT GET GOURCE WORKING:**<br>
 ![image](https://user-images.githubusercontent.com/48782723/151603899-dcdd4d71-3667-4bec-ad2c-208747c3eb02.png)
 
 
