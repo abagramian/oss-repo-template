@@ -28,3 +28,7 @@ NUMBER LINES
 GITSTATS
 ![image](https://user-images.githubusercontent.com/48782723/151601680-4e8bfec0-595f-460c-b503-47882b395ed3.png)
 file:///C:/Users/alexi/OneDrive/Documents/RPI/Spring22/OSS/lab3/Borilliant/activity.html
+
+COULD NOT GET GOURCE WORKING:
+![image](https://user-images.githubusercontent.com/48782723/151603899-dcdd4d71-3667-4bec-ad2c-208747c3eb02.png)
+
