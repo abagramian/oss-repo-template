@@ -26,3 +26,5 @@ NUMBER LINES
 95401
 
 GITSTATS
+![image](https://user-images.githubusercontent.com/48782723/151601680-4e8bfec0-595f-460c-b503-47882b395ed3.png)
+file:///C:/Users/alexi/OneDrive/Documents/RPI/Spring22/OSS/lab3/Borilliant/activity.html
