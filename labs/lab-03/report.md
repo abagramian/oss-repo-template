@@ -1,3 +1,18 @@
+
+#### Part 1
+
+LaTeX equations:
+![image](https://user-images.githubusercontent.com/48782723/151906471-80cdd618-bbaa-47eb-80ad-4e593f85df64.png)
+
+![image](https://user-images.githubusercontent.com/48782723/151906430-8ca86dd8-c988-42c3-9db5-f749af9d2497.png)
+
+![image](https://user-images.githubusercontent.com/48782723/151906782-5e559c6d-ff52-405b-b1e1-e286388e6d40.png)
+
+#### Part 2
+
+**NOTE: COULD NOT GET GOURCE WORKING:**<br>
+![image](https://user-images.githubusercontent.com/48782723/151603899-dcdd4d71-3667-4bec-ad2c-208747c3eb02.png)
+
 ## Borilliant-Feedback
 MOST RECENT COMMIT<br>
 
@@ -31,10 +46,6 @@ GITSTATS
 ![image](https://user-images.githubusercontent.com/48782723/151601680-4e8bfec0-595f-460c-b503-47882b395ed3.png)
 
 The total number of lines reported with gitstats is much higher than the lines found by running git ls-files -z | xargs -0 wc -l. All other statistics are consistent between the manual findings and gitstats.
-
-**COULD NOT GET GOURCE WORKING:**<br>
-![image](https://user-images.githubusercontent.com/48782723/151603899-dcdd4d71-3667-4bec-ad2c-208747c3eb02.png)
-
 
 
 ## Blockzeus-desktop
