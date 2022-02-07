@@ -36,10 +36,13 @@ https://github.com/aidan-lane/oss-lab04
 
 **PAST RCOS PROJECTS**
 
-| Syntax      | Description |
+| Website    | License Present | License |
 | ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+| https://github.com/RPI-ALPACA      | Yes       | MIT https://en.wikipedia.org/wiki/MIT_License |
+| https://www.reddit.com/r/BeirRun/| | Yes       | MIT https://en.wikipedia.org/wiki/MIT_License |
+| https://github.com/CarolynAnn/rcos-campuswatch | Yes | MIT https://en.wikipedia.org/wiki/MIT_License |
+| https://github.com/JoeIaquinto/drops | Yes | Apache-2.0 https://en.wikipedia.org/wiki/Apache_License |
+| https://github.com/SpongePowered/McTester | Yes | MIT https://en.wikipedia.org/wiki/MIT_License |
 
 
 
