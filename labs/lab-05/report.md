@@ -1,7 +1,7 @@
 ## Step 1
 **tutorial.cxx**
 
-`
+```
 // A simple program that computes the square root of a number
 #include "TutorialConfig.h"
 #include <cmath>
@@ -28,11 +28,11 @@ int main(int argc, char* argv[])
   return 0;
 }
 
-`
+```
 
 **CMakeLists.txt**
 
-`
+```
 cmake_minimum_required(VERSION 3.10)
 
 project(Tutorial VERSION 1.0)
@@ -49,7 +49,7 @@ add_executable(Tutorial tutorial.cxx)
 target_include_directories(Tutorial PUBLIC
 	                   "${PROJECT_BINARY_DIR}"
 			   )
-`
+```
 
 
 ![image](https://user-images.githubusercontent.com/48782723/153648164-5564d411-e230-4bd5-b9c4-4e4fed6dd99c.png)
