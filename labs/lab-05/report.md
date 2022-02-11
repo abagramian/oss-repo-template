@@ -39,7 +39,7 @@ project(Tutorial VERSION 1.0)
 
 configure_file(TutorialConfig.h.in TutorialConfig.h)
 
-# specify the C++ standatd
+#specify the C++ standatd
 set(CMAKE_CXX_STANDARD 11)
 set(CMAKE_CXX_STANDARD_REQUIRED True)
 
