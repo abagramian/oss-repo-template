@@ -1,17 +1,14 @@
 # Lab 6 - Alexis Bagramian
 Modify the base code to test the following words:
 
+```
 chaos to order
-
 plots to graph
-
 moron to smart
-
 flies to swims
-
 mango to peach
-
 pound to marks
+```
 
 #### Code
 
@@ -152,11 +149,13 @@ None
 
 Now generate a new version that takes words of length 4 and test with:
 
+```
 cold to warm
 love to hate
 good to evil
 pear to beef
 make to take
+```
 
 
 #### Code
@@ -255,12 +254,14 @@ take
 
 Next implement a variation where we consider two words (nodes) to be adjacent if there is a one letter difference without regard to ordering. You will need to change the edit_distance_one function to disregard letter position. Test with:
 
+```
 chaos to order
 plots to graph
 moron to smart
 flies to swims
 mango to peach
 pound to marks
+```
 
 
 #### Code
@@ -288,8 +289,8 @@ def generate_graph(words):
             left, c, right = word[0:i], word[i], word[i + 1:]
             j = lookup[c]  # lowercase.index(c)
             for cc in lowercase[j + 1:]:
-                perms = list(["".join(x) for x in itertools.permutations(left + cc + right, 5)])
-                for k in perms:
+                permutations = ["".join(x) for x in itertools.permutations(left + cc + right, 5)]
+                for k in permutations:
                     yield k
     candgen = ((word, cand) for word in sorted(words)
                for cand in edit_distance_one(word) if cand in words)
