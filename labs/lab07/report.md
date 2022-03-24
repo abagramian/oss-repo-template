@@ -21,6 +21,19 @@ Alexis Bagramian
 
 # Checkpoint 03
 
+## Errored Run
+![image](https://user-images.githubusercontent.com/48782723/159970144-9e20fba9-9e41-4208-8e19-816127794d9a.png)
+
+## Error Fix
+Changing year from 2020 to 2022
+
+![image](https://user-images.githubusercontent.com/48782723/159970937-4420c23d-8f47-4971-ba72-42baa87b3217.png)
+
+## Successful Run
+
+![image](https://user-images.githubusercontent.com/48782723/159973466-401e8079-9c76-49cc-9208-5c0025f1c206.png)
+
+
 # Checkpoint 04
 
 
