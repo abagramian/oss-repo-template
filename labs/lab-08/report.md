@@ -50,8 +50,3 @@ I had trouble getting this to work. My first attempt was not successful and I ha
 
 ## Deleting message and final results
 ![image](https://user-images.githubusercontent.com/48782723/160175860-333a0ece-1f85-4764-9b8f-56975a2344ca.png)
-
-
-
-
-
