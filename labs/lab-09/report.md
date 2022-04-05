@@ -4,6 +4,8 @@ Lab 9
 
 # Checkpoint 0
 
+https://github.com/abagramian/oss-repo-template/wiki
+
 # Checkpoint 1
 
 ### Functional Installation
