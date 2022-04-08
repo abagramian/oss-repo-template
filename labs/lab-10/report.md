@@ -4,3 +4,6 @@
 
 
 ## Checkpoint 2
+
+![image](https://user-images.githubusercontent.com/48782723/162484968-f624a32d-a0dd-426b-b9bf-a9aa34d8bc64.png)
+
