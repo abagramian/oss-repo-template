@@ -24,6 +24,9 @@
 
 ### Image 2
 
+![shirt](https://user-images.githubusercontent.com/48782723/162628806-6fad9507-3600-4b6f-a71b-703cd4fa8f62.jpg)
+
+![shirt1](https://user-images.githubusercontent.com/48782723/162628812-ead18320-f498-4d1a-86c4-2b50cb0ef4da.jpg)
 
 
 ```
@@ -34,6 +37,10 @@
 ```
 
 ### Image 3
+
+![shoe](https://user-images.githubusercontent.com/48782723/162628828-5dd9d59f-2e3e-42b9-a2b9-f83992643eea.jpg)
+
+![shoe1](https://user-images.githubusercontent.com/48782723/162628849-71bb81af-20e2-4720-936a-7d82ff84c651.jpg)
 
 ```
 [[3.6361428e-06 5.5842964e-10 1.7785524e-07 6.8160277e-09 1.4676501e-06
